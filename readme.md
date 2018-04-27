@@ -14,6 +14,8 @@ This is a **demo** to *show* how use this utility to inherited a ExtJS class in 
           ...
        }
     }
+    
+    let aForm = new myForm();
 ```
   
 Basically I already done it, but since I am new in GibHub, so need some more time
