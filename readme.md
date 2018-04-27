@@ -1,7 +1,8 @@
 2018-04-24
-This is a **demo** to *show* how to inherited a ExtJS class in typeScript like that:
+This is a **demo** to *show* how use this utility to inherited a ExtJS class in typeScript like that:
 
 ```javascript
+    @extjs.component
     class myForm extends Ext.window.Window 
     {
        constructor() {
