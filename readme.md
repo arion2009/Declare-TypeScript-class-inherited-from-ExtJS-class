@@ -24,3 +24,4 @@ There are 3 files:
 - main.ts
 - ts-decorators-extjs.ts
 
+please remember to change paths in index.html
